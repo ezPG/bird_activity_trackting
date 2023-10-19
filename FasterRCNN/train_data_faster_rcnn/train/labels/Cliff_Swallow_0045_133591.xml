@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Cliff_Swallow_0045_133591.jpg</filename>
+	<path>/my-project-name/Cliff_Swallow_0045_133591.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>341</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Flying</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>40</ymin>
+			<xmax>311</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

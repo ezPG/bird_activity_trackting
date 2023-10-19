@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>pexels-photo-12430799.jpeg</filename>
+	<path>/my-project-name/pexels-photo-12430799.jpeg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Walking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>287</ymin>
+			<xmax>517</xmax>
+			<ymax>759</ymax>
+		</bndbox>
+	</object>
+</annotation>

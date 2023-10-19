@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Red_Breasted_Merganser_0046_79330.jpg</filename>
+	<path>/my-project-name/Red_Breasted_Merganser_0046_79330.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>278</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Swimming</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>67</ymin>
+			<xmax>443</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

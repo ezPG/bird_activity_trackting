@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Hooded_Oriole_0060_90879.jpg</filename>
+	<path>/my-project-name/Hooded_Oriole_0060_90879.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>330</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Resting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>102</ymin>
+			<xmax>334</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

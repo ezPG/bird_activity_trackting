@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Crested_Auklet_0068_785253.jpg</filename>
+	<path>/my-project-name/Crested_Auklet_0068_785253.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Flying</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>58</ymin>
+			<xmax>416</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>

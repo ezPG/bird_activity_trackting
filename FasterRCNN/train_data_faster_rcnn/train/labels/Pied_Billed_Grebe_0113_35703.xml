@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Pied_Billed_Grebe_0113_35703.jpg</filename>
+	<path>/my-project-name/Pied_Billed_Grebe_0113_35703.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>392</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Resting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>16</ymin>
+			<xmax>387</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

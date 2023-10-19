@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Black_Footed_Albatross_0088_796133.jpg</filename>
+	<path>/my-project-name/Black_Footed_Albatross_0088_796133.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>335</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Flying</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>17</ymin>
+			<xmax>298</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Laysan_Albatross_0081_800.jpg</filename>
+	<path>/my-project-name/Laysan_Albatross_0081_800.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>372</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Flying</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>34</ymin>
+			<xmax>408</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

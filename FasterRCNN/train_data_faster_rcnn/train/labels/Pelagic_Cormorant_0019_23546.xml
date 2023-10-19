@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Pelagic_Cormorant_0019_23546.jpg</filename>
+	<path>/my-project-name/Pelagic_Cormorant_0019_23546.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>357</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Swimming</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>128</ymin>
+			<xmax>443</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

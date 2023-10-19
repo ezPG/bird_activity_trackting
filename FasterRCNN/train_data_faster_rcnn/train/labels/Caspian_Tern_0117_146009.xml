@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Caspian_Tern_0117_146009.jpg</filename>
+	<path>/my-project-name/Caspian_Tern_0117_146009.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Flying</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>60</ymin>
+			<xmax>388</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

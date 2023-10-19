@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Magnolia_Warbler_0140_165543.jpg</filename>
+	<path>/my-project-name/Magnolia_Warbler_0140_165543.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>329</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Resting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>95</ymin>
+			<xmax>441</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

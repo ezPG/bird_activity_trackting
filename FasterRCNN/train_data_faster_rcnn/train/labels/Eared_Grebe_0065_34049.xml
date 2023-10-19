@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Eared_Grebe_0065_34049.jpg</filename>
+	<path>/my-project-name/Eared_Grebe_0065_34049.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>415</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Swimming</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>128</ymin>
+			<xmax>376</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>

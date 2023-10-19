@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Sooty_Albatross_0033_1128.jpg</filename>
+	<path>/my-project-name/Sooty_Albatross_0033_1128.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>332</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Flying</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>35</ymin>
+			<xmax>458</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

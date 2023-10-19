@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Rhinoceros_Auklet_0007_797521.jpg</filename>
+	<path>/my-project-name/Rhinoceros_Auklet_0007_797521.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>418</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Swimming</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>38</ymin>
+			<xmax>286</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>

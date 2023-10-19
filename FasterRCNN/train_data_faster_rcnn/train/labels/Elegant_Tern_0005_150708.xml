@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Elegant_Tern_0005_150708.jpg</filename>
+	<path>/my-project-name/Elegant_Tern_0005_150708.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Flying</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>37</ymin>
+			<xmax>462</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

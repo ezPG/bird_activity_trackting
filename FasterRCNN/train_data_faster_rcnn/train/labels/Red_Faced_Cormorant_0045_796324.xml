@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Red_Faced_Cormorant_0045_796324.jpg</filename>
+	<path>/my-project-name/Red_Faced_Cormorant_0045_796324.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>446</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Swimming</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>42</ymin>
+			<xmax>392</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

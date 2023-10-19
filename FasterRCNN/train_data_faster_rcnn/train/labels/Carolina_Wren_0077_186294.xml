@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Carolina_Wren_0077_186294.jpg</filename>
+	<path>/my-project-name/Carolina_Wren_0077_186294.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>498</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Resting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>117</ymin>
+			<xmax>390</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

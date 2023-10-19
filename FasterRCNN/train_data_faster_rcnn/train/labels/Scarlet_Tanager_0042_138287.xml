@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Scarlet_Tanager_0042_138287.jpg</filename>
+	<path>/my-project-name/Scarlet_Tanager_0042_138287.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Resting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>122</ymin>
+			<xmax>272</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>

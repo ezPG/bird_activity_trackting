@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Horned_Puffin_0073_100830.jpg</filename>
+	<path>/my-project-name/Horned_Puffin_0073_100830.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Swimming</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>82</ymin>
+			<xmax>332</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>

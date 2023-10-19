@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Brandt_Cormorant_0075_22970.jpg</filename>
+	<path>/my-project-name/Brandt_Cormorant_0075_22970.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Swimming</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>93</ymin>
+			<xmax>376</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>White_Pelican_0016_96659.jpg</filename>
+	<path>/my-project-name/White_Pelican_0016_96659.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Swimming</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>97</ymin>
+			<xmax>470</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>

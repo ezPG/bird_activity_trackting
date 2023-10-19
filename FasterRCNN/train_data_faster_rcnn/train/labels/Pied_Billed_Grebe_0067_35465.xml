@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Pied_Billed_Grebe_0067_35465.jpg</filename>
+	<path>/my-project-name/Pied_Billed_Grebe_0067_35465.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Swimming</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>33</ymin>
+			<xmax>286</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>Gadwall_0052_30915.jpg</filename>
+	<path>/my-project-name/Gadwall_0052_30915.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>312</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Swimming</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>62</ymin>
+			<xmax>443</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>
